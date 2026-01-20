@@ -24,7 +24,7 @@
 ## 🧩 About Me
 - 🏫 남녕고등학교 **30대 학생회장**
 - 🎓 상명대학교 휴먼지능정보공학 (학사 / 졸업예정)  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GPA: 4.41/4.5 (Overall), 4.46/4.5 (Major) | Total Credits: 140**
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GPA: 4.41/4.5 (Overall), 4.46/4.5 (Major) || Total Credits: 140**
 - 🧠 관심사: **PM**, **AIX**, 데이터 분석, 서비스 자동화
 - 🧭 강점: 기획, 소통, 최적화 (유지보수)
 - 🏕️ 취미: 사진, 커피, 캠핑, 운동 (축구, 복싱, 등산 등)
