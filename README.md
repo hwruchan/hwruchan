@@ -2,9 +2,7 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
 
-# 👋 김정찬 | Jeongchan Kim  
-### 문제를 "정의"하고, 데이터를 "설계"해서, 서비스로 "만드는" 사람
-
+# 👋 김정찬 | Jeongchan Kim | 金汀澯
 <!-- (선택) 한 줄 소개 뱃지 -->
 <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-ML%20%26%20Data-7B61FF?style=flat&logo=openai&logoColor=white" />
