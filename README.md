@@ -35,6 +35,43 @@
 
 ## 🎤 Activities
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 HUNITY (학과학생회)</h3>
+      <code>2024. 01. ~ 2024. 12.</code><br>
+      <b>총무부장</b>
+      <ul>
+        <li>학과 행사 기획 및 총괄</li>
+        <li>학생회비 집행 및 예산 관리</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ SMBS (교육방송국)</h3>
+      <code>2022. 09. ~ 2024. 08.</code><br>
+      <b>아나운서부장</b>
+      <ul>
+        <li>콘텐츠 제작 총괄 및 행사 기획</li>
+        <li>라디오 방송 아나운싱 진행</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📊 BAMBOO (학술동아리)</h3>
+      <code>2022. 09. ~ 2025. 12.</code><br>
+      <b>총무 및 멘토</b>
+      <ul>
+        <li><b>신입생 대상 데이터 분석 수업</b> 진행</li>
+        <li>학술 대회 기획 및 커리큘럼 제작</li>
+        <li>파이썬, 머신러닝 스터디 수행</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 > [!NOTE]
 > ### 🏫 HUNITY (학과학생회) | 총무부장
