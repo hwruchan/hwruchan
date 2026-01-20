@@ -59,28 +59,13 @@
 
 ---
 
-## 🏗️ Projects
-> 아래는 “프로필에 보여주기 좋은” 형태로 정리했어.  
-> `Repo` 링크만 네 레포로 바꿔줘!
-
-### 1) Withus — 리크루팅 프로세스 통합 솔루션
-- 면접/평가/지원서/운영 관리의 반복 업무를 줄이는 HR 프로세스 자동화 서비스  
-- **자동 면접 스케줄링**, 평가 리마인드, 역할 기반 권한(ROLE_ADMIN) 등
-- Repo: TODO 링크
-
-### 2) oneTeam (Capstone) — MCP 기반 학생 지원 Agentic System
-- MCP 기반 Custom AI Agent로 학생의 실제 업무/학습 활동 지원  
-- MCP 서버 개발·배포 파트 담당 :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}  
-- Repo: TODO 링크
-
-### 3) 전통시장 만족도 분석 (리뷰 + 공공데이터 결합)
-- 네이버/카카오 리뷰 + 공공데이터 병합, 전처리/정합성 개선, 인사이트 도출 :contentReference[oaicite:9]{index=9}  
-- Repo: TODO 링크
-
-### 4) Tax Invoice OCR / 검증 자동화 (백엔드 테스트 포함)
-- OCR 처리/검색/삭제/엑셀 다운로드 API 테스트까지 포함해 품질 확보(통합테스트 중심)
-- Repo: TODO 링크
-
+## 🤝 Projects & Programs
+- 🤖 [oneTeam] MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 03. ~ 25. 12.)</sub>
+- ⚖️ [고정관념] Bias-A-Thon : LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 04. ~ 25. 05.)</sub>
+- 🐘 [BINBIN] 태국 치앙마이 대학 연계 해커톤, 쓰레기 문제 해결 서비스 - 기획 <sub>(24. 12.)</sub>
+- 🦘 [JECCY] 호주 글로벌 매칭 프로그램, 현지 맞춤형 바이오헬스 서비스 - 팀장 <sub>(24. 11.)</sub>
+- 👤 [AVA] 실종자 정보 기반 아바타 생성 및 재현 서비스 (MM-RAG) - 기획 <sub>(24. 05. ~ 24. 06.)</sub>
+- 🦷 [CopyAndToothpaste] 치의학 파노라마 이미지 활용 신경 손상 위험 평가 모델 - 기획 & 개발 <sub>(23. 10. ~ 23. 12.)</sub>
 ---
 
 ## 🏅 Awards
