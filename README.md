@@ -65,10 +65,14 @@
 ---
 
 ## 🏅 Awards
-- 🏅 
-- 🥉 **[2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description)** : LLM 응답의 편향 사례 발견/분류 및 데이터셋 정제 — 장려상 (25.04. ~ 25.05)  
-- 🥈 **SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전** : MM-RAG 활용 실종자 모습 재현 서비스 제안 — 우수상 (2024.04)
-- 🥉 바이오헬스 데이터 경진대회(치의학) — 장려상 (2023.12)
+- 🏅 HUMAN AI FESTIVAL 2025 - 대상(2025.11.)   
+-> SMUS: AI Agent(Custom MCP-driven)를 활용한 상명대학교 통합 정보 허브
+- 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 (2025.06.)   
+-> LLM 응답의 편향 사례 발견/분류 및 데이터셋 정제  
+- 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 — 우수상 (2024.06.)  
+-> MM-RAG 활용 실종자 모습 재현 서비스 제안
+- 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) — 장려상 (2023.12.)  
+-> 사랑니 영역의 파노라마 사진 이미지 활용 사랑니 발치 수술 후 치조신경 손상의 위험성 평가 모델 개발 
 
 ---
 
