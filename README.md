@@ -10,7 +10,7 @@
 
 <br/><br/>
 <div align="center">
-  <img src="https://github.com/hwruchan/hwruchan/issues/1#issue-3833295161" width="250px">
+  <img src="https://private-user-images.githubusercontent.com/162102407/537992059-65db36b3-e2b6-445a-bbe7-8cfb989258da.jpg" width="250px">
 </div>
 </div>
 
