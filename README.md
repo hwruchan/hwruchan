@@ -48,6 +48,19 @@
 </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="1000">
+      <h3>🏫 HUNITY (학과학생회)</h3>
+      <code>2024. 01. ~ 2024. 12.</code> <br><br>
+      <b>총무부장</b>
+      <ul>
+        <li>학과 행사 기획 및 총괄</li>
+        <li>학생회비 집행 및 투명한 예산 관리</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 > [!NOTE]
 > ### 🏫 HUNITY (학과학생회) | 총무부장
