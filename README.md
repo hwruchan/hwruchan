@@ -30,7 +30,6 @@
 ---
 
 ## 🎤 Activities
-- 🏋️ [All4fit]
 - 🏫 [HUNITY] 학과 학생회 행사 기획 총괄 및 예산 관리 - **총무부장** <sub>(24. 1. ~ 24. 12.)</sub>
 - ☕ [바람커피] 원두 로스팅 및 핸드드립 브루잉 - **로스터 & 바리스타** <sub>(22. 9. ~ 24. 11.)</sub>
 - 📊 [BAMBOO] 학술 스터디, 데이터 분석 수업 진행 및 학술 대회 기획·운영 - 부원 <sub>(22. 9. ~ 24. 12.)</sub> , **총무 & 멘토** <sub>(25. 1. ~ 25. 12.)</sub>
@@ -41,6 +40,7 @@
 ---
 
 ## 🤝 Projects & Programs
+- 🏋️ [All4fit]
 - 🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub>
 - ⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub>
 - 🫁 [RespCam] Cossthon, rPPG/rRSP 기술 기반 호흡기 질환 예방 및 관리 홈케어 서비스 - 기획 & 전략 <sub>(24. 12.)</sub>
