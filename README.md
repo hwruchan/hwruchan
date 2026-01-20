@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
 
 <br/><br/>
-
+<div align="center">
+  <img src="https://github.com/hwruchan/hwruchan/issues/1#issue-3833295161" width="250px">
+</div>
 </div>
 
 ---
