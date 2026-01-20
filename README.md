@@ -84,7 +84,7 @@
 ---
 
 ## 📌 More (Links)
-- Portfolio: https://www.notion.so/1b8c6dd1152680959a49d7726c408da3  <!-- TODO: 네 포트폴리오 링크 맞으면 유지 -->
+- Portfolio: https://www.notion.  <!-- TODO: 네 포트폴리오 링크 맞으면 유지 -->
 - Blog: TODO
 - Email: TODO (원하면 적고, 아니면 빼도 됨)
 
