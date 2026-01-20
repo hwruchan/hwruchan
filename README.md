@@ -78,7 +78,7 @@
 - 🦷 [CopyAndToothpaste] 치의학 파노라마 이미지 활용 신경 손상 위험 평가 모델 - 기획 & 개발 <sub>(23. 10. ~ 23. 12.)</sub>
 ---
 
-## 🏅 Awards
+## 🏆 Awards
 - 🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(2025. 11.)</sub>   
 -> SMUS: AI Agent(Custom MCP-driven)를 활용한 상명대학교 통합 정보 허브
 - 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 <sub>(2025. 6.)</sub>   
