@@ -34,9 +34,14 @@
 ---
 
 ## 🎤 Activities
-- 🧑‍💼 학과 학생회 **총무부장** (행사 기획/예산 집행) :contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}  
-- 🎙️ 교육방송국(SMBS) **아나운서부장** (기획/제작/진행) :contentReference[oaicite:18]{index=18} :contentReference[oaicite:19]{index=19}  
-- 🌿 학술동아리 **밤부** 총무/멘토 (데이터 분석 교육) :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}
+- HUNITY | 학과학생회 | **총무부장** | 2024. 1. ~ 2024. 12.  
+  : 학과 행사 기획, 예산 집행 및 관리
+- SMBS   | 교육방송국 | 수습 국원<sub>(2022. 9. ~ 2023. 3.)</sub> , 정국원 <sub>(2023. 3. ~ 2024. 2.)</sub> , **아나운서부장**<sub>(2024. 3. ~ 2024. 8.)</sub>  
+  : 학교 행사 기획, 컨텐츠 제작, 행사 및 라디오 아나운서 진행
+- BAMBOO | 학술동아리 | 총무, 멘토 | 2025. 1. ~ 2025. 12.   
+  : **신입생 대상 데이터 분석 수업**, 대회 기획 및 예산 편성
+- BAMBOO | 학술동아리 | 부원 | 2022. 9. ~ 2024. 12.  
+  : 파이썬, 데이터 분석, 머신러닝 등의 스터디
 
 ---
 
@@ -65,13 +70,13 @@
 ---
 
 ## 🏅 Awards
-- 🏅 HUMAN AI FESTIVAL 2025 - 대상(2025.11.)   
+- 🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(2025. 11.)</sub>   
 -> SMUS: AI Agent(Custom MCP-driven)를 활용한 상명대학교 통합 정보 허브
-- 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 (2025.06.)   
+- 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 <sub>(2025. 6.)</sub>   
 -> LLM 응답의 편향 사례 발견/분류 및 데이터셋 정제  
-- 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 — 우수상 (2024.06.)  
+- 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 — 우수상 <sub>(2024. 6.)</sub>  
 -> MM-RAG 활용 실종자 모습 재현 서비스 제안
-- 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) — 장려상 (2023.12.)  
+- 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) — 장려상 <sub>(2023. 12.)</sub>  
 -> 사랑니 영역의 파노라마 사진 이미지 활용 사랑니 발치 수술 후 치조신경 손상의 위험성 평가 모델 개발 
 
 ---
@@ -86,8 +91,8 @@
 ---
 
 ## 📌 More (Links)
-- Portfolio: https://www.notion.  <!-- TODO: 네 포트폴리오 링크 맞으면 유지 -->
-- Blog: TODO
+- Portfolio: 
+- Blog: 
 - Email: hwruchan@gmail.com
 
 ---
