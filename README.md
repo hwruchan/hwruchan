@@ -20,7 +20,7 @@
 ## 🧩 About Me
 - 🏫 남녕고등학교 **30대 학생회장**
 - 🎓 상명대학교 **휴먼지능정보공학** (학사 / 졸업예정)
-- 🧠 관심사: **AIX**, **데이터 분석**, **서비스 자동화**
+- 🧠 관심사: **PM**, **AIX**, 데이터 분석, 서비스 자동화
 - 🧭 강점: 기획, 소통, 최적화 (유지보수)
 - 🏕️ 취미: 사진, 커피, 캠핑, 운동 (축구, 복싱, 등산 등)
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 > 아래는 “프로필에 보여주기 좋은” 형태로 정리했어.  
 > `Repo` 링크만 네 레포로 바꿔줘!
 
@@ -88,19 +88,9 @@
 ## 📌 More (Links)
 - Portfolio: https://www.notion.  <!-- TODO: 네 포트폴리오 링크 맞으면 유지 -->
 - Blog: TODO
-- Email: TODO (원하면 적고, 아니면 빼도 됨)
+- Email: hwruchan@gmail.com
 
 ---
 
-## 📈 GitHub Stats (Optional)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hwruchan&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwruchan&layout=compact" height="150" />
-</div>
-
-<!-- ====== FOOTER ====== -->
-<div align="center">
-
-_“기술을 위한 기술이 아니라, 사용자를 위해 자동화합니다.”_
 
 </div>
