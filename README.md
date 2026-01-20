@@ -50,9 +50,9 @@
 
 ## 🏆 Awards
 - 🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11.)</sub>   
-- 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 <sub>(25. 6.)</sub>   
-- 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 — 우수상 <sub>(24. 6.)</sub>  
-- 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) — 장려상 <sub>(23. 12.)</sub>  
+- 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) - 장려상 <sub>(25. 6.)</sub>   
+- 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 - 우수상 <sub>(24. 6.)</sub>  
+- 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) - 장려상 <sub>(23. 12.)</sub>  
 
 ---
 
