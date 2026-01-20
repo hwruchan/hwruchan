@@ -74,24 +74,20 @@
 ---
 
 ## 🤝 Projects & Programs
-- 🤖 [oneTeam] 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub>
-- ⚖️ [고정관념] Bias-A-Thon : LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub>
-- 🫁 [RespCam] rPPG/rRSP 기술 기반 호흡기 질환 예방 및 관리 홈케어 서비스 - 기획 & 전략 <sub>(24. 12.)</sub>
+- 🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub>
+- ⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub>
+- 🫁 [RespCam] Cossthon, rPPG/rRSP 기술 기반 호흡기 질환 예방 및 관리 홈케어 서비스 - 기획 & 전략 <sub>(24. 12.)</sub>
 - 🐘 [BINBIN] 태국 치앙마이 대학 연계 해커톤, 현지 쓰레기 문제 해결 쓰레기 통 위치 안내 앱 - 기획 <sub>(24. 12.)</sub>
 - 🦘 [JECCY] 호주 글로벌 매칭 프로그램, 웨어러블 디바이스 기반 UV 모니터링 및 선크림 알림 서비스 - 팀장 & 기획 <sub>(24. 11.)</sub>
-- 👤 [AVA] 실종자 정보 기반 아바타 생성 및 재현 서비스 - 기획 <sub>(24. 5. ~ 24. 6.)</sub>
-- 🦷 [CopyAndToothpaste] 치의학 파노라마 이미지 활용 신경 손상 위험 평가 모델 - 기획 & 개발 <sub>(23. 10. ~ 23. 12.)</sub>
+- 👤 [AVA] 인공지능 활용 서비스 사례 공모전, 실종자 정보 기반 아바타 생성 및 재현 서비스 - 기획 <sub>(24. 5. ~ 24. 6.)</sub>
+- 🦷 [CopyAndToothpaste] 바이오헬스 데이터 경진대회, 치의학 파노라마 이미지 활용 신경 손상 위험 평가 모델 - 기획 & 개발 <sub>(23. 10. ~ 23. 12.)</sub>
 ---
 
 ## 🏆 Awards
 - 🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11.)</sub>   
--> SMUS: AI Agent(Custom MCP-driven)를 활용한 상명대학교 통합 정보 허브
 - 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) — 장려상 <sub>(25. 6.)</sub>   
--> LLM 응답의 편향 사례 발견/분류 및 데이터셋 정제  
 - 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 — 우수상 <sub>(24. 6.)</sub>  
--> MM-RAG 활용 실종자 모습 재현 서비스 제안
 - 🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) — 장려상 <sub>(23. 12.)</sub>  
--> 사랑니 영역의 파노라마 사진 이미지 활용 사랑니 발치 수술 후 치조신경 손상의 위험성 평가 모델 개발 
 
 ---
 
