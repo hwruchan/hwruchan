@@ -77,11 +77,12 @@
 ---
 
 ## 📝Certifications
+- 정보처리기사 필기
 - TOEIC SPEAKING - AL
 - 워드프로세서 - 1급
 - 컴퓨터활용능력 - 3급
 - 한자자격검정 - 2급
-- 
+
 ---
 
 ## 📌 More (Links)
