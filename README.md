@@ -33,8 +33,7 @@
 ---
 
 ## 🔥 Now
-- 🤖 
-
+- 🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 요구사항 구체화·개발 소통 <sub>(25. 12. ~ now)</sub>
 ---
 
 ## 🎤 Activities & Experience
@@ -48,7 +47,7 @@
 ---
 
 ## 🤝 Projects & Programs
-- 🏋️ [All4fit]
+- 🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 기획 및 UI/UX 설계 <sub>(25. 9. ~ 25. 12.)</sub>
 - 🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub>
 - ⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub>
 - 🫁 [RespCam] Cossthon, rPPG/rRSP 기술 기반 호흡기 질환 예방 및 관리 홈케어 서비스 - 기획 & 전략 <sub>(24. 12.)</sub>
