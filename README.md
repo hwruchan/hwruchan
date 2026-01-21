@@ -22,7 +22,7 @@
 
 ---
 
-## 🧩 About Me
+## About Me
 - 🎓 상명대학교 휴먼지능정보공학 (학사 / 졸업예정)  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GPA: 4.41/4.5 (Overall), 4.46/4.5 (Major) || Total Credits: 140**
 - 🏫 남녕고등학교 **30대 학생회장**
@@ -32,11 +32,11 @@
 
 ---
 
-## 🔥 Now
+## Now
 - 🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 요구사항 구체화·개발 소통 <sub>(25. 12. ~ now)</sub>
 ---
 
-## 🎤 Activities & Experience
+## Activities & Experience
 - 🏫 [HUNITY] 학과 학생회 행사 기획 총괄 및 예산 관리 - **총무부장** <sub>(24. 1. ~ 24. 12.)</sub>
 - ☕ [바람커피] 원두 로스팅 및 핸드드립 브루잉 - **로스터 & 바리스타** <sub>(22. 9. ~ 24. 11.)</sub>
 - 📊 [BAMBOO] 학술 스터디, 데이터 분석 수업 진행 및 학술 대회 기획·운영 - 부원 <sub>(22. 9. ~ 24. 12.)</sub> , **총무 & 멘토** <sub>(25. 1. ~ 25. 12.)</sub>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🤝 Projects & Programs
+## Projects & Programs
 - 🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 기획 및 UI/UX 설계 <sub>(25. 9. ~ 25. 12.)</sub>
 - 🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub>
 - ⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub>
@@ -57,7 +57,7 @@
 - 🦷 [CopyAndToothpaste] 바이오헬스 데이터 경진대회, 치의학 파노라마 이미지 활용 신경 손상 위험 평가 모델 - 개발 <sub>(23. 10. ~ 23. 12.)</sub>
 ---
 
-## 🏆 Awards
+## Awards
 - 🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11.)</sub>   
 - 🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) - 장려상 <sub>(25. 6.)</sub>   
 - 🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 - 우수상 <sub>(24. 6.)</sub>  
@@ -67,7 +67,7 @@
 
 ---
 
-## 📝Certifications
+## Certifications
 - 정보처리기사 필기
 - TOEIC SPEAKING - AL
 - 워드프로세서 - 1급
@@ -76,7 +76,7 @@
 
 ---
 
-## 📌 More (Links)
+## More (Links)
 - Portfolio: 
 - Blog: 
 - Email: hwruchan@gmail.com
