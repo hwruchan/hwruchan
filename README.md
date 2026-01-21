@@ -4,9 +4,10 @@
 
 # 👋 김정찬 | Jeongchan Kim | 金汀澯
 <!-- (선택) 한 줄 소개 뱃지 -->
-<img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-ML%20%26%20Data-7B61FF?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Interest-PM%20%26%20Planning-0052CC?style=flat" />
+<img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLM-7B61FF?style=flat" />
+<img src="https://img.shields.io/badge/Work-Service%20Automation%20%26%20Data%20Analysis-3776AB?style=flat" />
+
 
 <br/><br/>
 <div align="center">
