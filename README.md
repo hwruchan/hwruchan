@@ -72,7 +72,7 @@
 
 ## Certifications
 - 정보처리기사 필기
-- TOEIC SPEAKING - AL <sub>(22. 12.)</sub>
+- TOEIC SPEAKING - AL <sub>(25. 10. 18.)</sub>
 - 워드프로세서 - 1급 <sub>(11. 9. 9.)</sub>
 - 컴퓨터활용능력 - 3급 <sub>(10. 9. 24.)</sub>
 - 한자자격검정 - 2급 <sub>(09. 9. 30.)</sub>
