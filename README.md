@@ -60,11 +60,12 @@
 ---
 
 ## Awards
-&nbsp;&nbsp;&nbsp;🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11.)</sub><br>
-&nbsp;&nbsp;&nbsp;🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) - 장려상 <sub>(25. 6.)</sub>   <br>
-&nbsp;&nbsp;&nbsp;🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 - 우수상 <sub>(24. 6.)</sub>  <br>
-&nbsp;&nbsp;&nbsp;🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) - 장려상 <sub>(23. 12.)</sub><br>
-&nbsp;&nbsp;&nbsp;🏅 상명 에세이경진대회(영어 에세이 - 초급) - 대상 <sub>(22. 12.)</sub>   <br>
+&nbsp;&nbsp;&nbsp;🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11. 12.)</sub><br>
+&nbsp;&nbsp;&nbsp;🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) - 장려상 <sub>(25. 6. 4.)</sub>   <br>
+&nbsp;&nbsp;&nbsp;🥉 코딩프로젝트 공모전 - 수상 <sub>(24. 12. 12.)</sub>  <br>
+&nbsp;&nbsp;&nbsp;🥈 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 - 우수상 <sub>(24. 6. 19.)</sub>  <br>
+&nbsp;&nbsp;&nbsp;🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) - 장려상 <sub>(23. 12. 1.)</sub><br>
+&nbsp;&nbsp;&nbsp;🏅 상명 에세이경진대회(영어 에세이 - 초급) - 대상 <sub>(23. 2. 8.)</sub>   <br>
 
 
 ---
