@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLM-7B61FF?style=flat" />
 <img src="https://img.shields.io/badge/Work-Service%20Automation%20%26%20Data%20Analysis-3776AB?style=flat" />
 
+<div align="center">
+  <img src="https://github.com/hwruchan/hwruchan/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 <br/><br/>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ed8598c0-c332-4d33-b403-759fb157a8f4" width="19%">
