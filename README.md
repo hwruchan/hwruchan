@@ -72,7 +72,6 @@
 &nbsp;&nbsp;&nbsp;🥉 [2023 바이오헬스 데이터 경진대회-치의학 분야](https://aiconnect.kr/competition/detail/234) - 장려상 <sub>(23. 12. 1.)</sub><br>
 &nbsp;&nbsp;&nbsp;🏅 상명 에세이경진대회(영어 에세이 - 초급) - 대상 <sub>(23. 2. 8.)</sub>   <br>
 
-
 ---
 
 ## Certifications
