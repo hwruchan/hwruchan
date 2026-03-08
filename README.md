@@ -65,6 +65,7 @@
 ---
 
 ## Awards
+&nbsp;&nbsp;&nbsp;🏅 학과 수석 - 우수상 <sub>(26. 2. 24.)</sub><br>
 &nbsp;&nbsp;&nbsp;🏅 HUMAN AI FESTIVAL 2025 - 대상 <sub>(25. 11. 12.)</sub><br>
 &nbsp;&nbsp;&nbsp;🥉 2025-1 캡스톤디자인 경진대회 - 입선 <sub>(25. 8. 22.)</sub><br>
 &nbsp;&nbsp;&nbsp;🥉 [2025 Bias-A-Thon: Bias 발견 챌린지](https://dacon.io/competitions/official/236486/overview/description) - 장려상 <sub>(25. 6. 4.)</sub>   <br>
