@@ -77,7 +77,7 @@
 ---
 
 ## Certifications
-- SQLD - 사전합격 <sub>(26. 3. 27.)</sub>
+- SQLD <sub>(26. 3. 27.)</sub>
 - AICE - Associate <sub>(26. 02. 27.)</sub>
 - 정보처리기사 필기 합격
 - TOEIC SPEAKING - AL <sub>(25. 10. 18.)</sub>
