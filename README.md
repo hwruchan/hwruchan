@@ -79,7 +79,7 @@
 ## Certifications
 - SQLD <sub>(26. 3. 27.)</sub>
 - AICE - Associate <sub>(26. 02. 27.)</sub>
-- 정보처리기사 필기 합격
+- 정보처리기사 필기 합격 
 - TOEIC SPEAKING - AL <sub>(25. 10. 18.)</sub>
 - 워드프로세서 - 1급 <sub>(11. 9. 9.)</sub>
 - 컴퓨터활용능력 - 3급 <sub>(10. 9. 24.)</sub>
