@@ -54,7 +54,7 @@
 ---
 
 ## Projects & Programs
-&nbsp;&nbsp;&nbsp;🏦 [JEJUBANK] 제주은행, Tech혁신파트 인턴<sub>(26. 5. 13. ~ 26. 8. 12.)</sub><br>
+&nbsp;&nbsp;&nbsp;🏦 [JEJUBANK] 제주은행, ICT총괄파트(現 Tech혁신파트) 인턴 <sub>(26. 5. 13. ~ 26. 8. 12.)</sub><br>
 &nbsp;&nbsp;&nbsp;🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 기획 및 UI/UX 설계, 요구사항 구체화·개발 소통 <sub>(25. 9. ~ 26. 1.)</sub><br>
 &nbsp;&nbsp;&nbsp;🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub><br>
 &nbsp;&nbsp;&nbsp;⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub><br>
