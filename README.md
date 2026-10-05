@@ -38,7 +38,7 @@
 ---
 
 ## Now
-&nbsp;&nbsp;&nbsp;🏋️ [JEJUBANK] 제주은행, Tech혁신파트 계리·회계 개발자<sub>(26. 5. 13. ~ now / 정규직 전환 - 26. 8. 13.)</sub><br>
+&nbsp;&nbsp;&nbsp;🏦 [JEJUBANK] 제주은행, Tech혁신파트 계리·회계 개발자<sub>(26. 5. 13. ~ now / 정규직 전환 - 26. 8. 13.)</sub><br>
 
 ---
 
@@ -77,6 +77,7 @@
 ---
 
 ## Certifications
+- 보험대리점 3종 (손해보험, 제3보험, 생명보험)
 - SQLD <sub>(26. 3. 27.)</sub>
 - AICE - Associate <sub>(26. 02. 27.)</sub>
 - 정보처리기사 필기 합격
@@ -88,8 +89,6 @@
 ---
 
 ## More (Links)
-- Portfolio: 
-- Blog: 
 - Email: hwruchan@gmail.com
 
 ---
