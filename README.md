@@ -28,7 +28,7 @@
 ---
 
 ## About Me
-&nbsp;&nbsp;&nbsp;🎓 상명대학교 휴먼지능정보공학(現 휴먼AI공학전) (학사) **Summa Cum Laude** (Ranked 1st in Dept.)  
+&nbsp;&nbsp;&nbsp;🎓 상명대학교 휴먼지능정보공학(現 휴먼AI공학전) (학사) **수석 졸업** (Summa Cum Laude, Ranked 1st in Dept.)  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GPA: 4.41/4.5 (Overall), 4.46/4.5 (Major) || Total Credits: 140** <br>
 &nbsp;&nbsp;&nbsp;🏫 남녕고등학교 31대 학생회장<br>
 &nbsp;&nbsp;&nbsp;🧠 관심사: **PM**, **AIX**, 데이터 분석, 서비스 자동화<br>
@@ -38,7 +38,7 @@
 ---
 
 ## Now
-&nbsp;&nbsp;&nbsp;🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 요구사항 구체화·개발 소통 <sub>(25. 12. ~ now)</sub><br>
+&nbsp;&nbsp;&nbsp;🏋️ [JEJUBANK] 제주은행, Tech혁신파트(26. 5. 13. ~ now / 정규직 전환 - 26. 8. 13.)</sub><br>
 
 ---
 
@@ -53,7 +53,7 @@
 ---
 
 ## Projects & Programs
-&nbsp;&nbsp;&nbsp;🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 기획 및 UI/UX 설계 <sub>(25. 9. ~ 25. 12.)</sub><br>
+&nbsp;&nbsp;&nbsp;🏋️ [All4fit] 모두의핏, 공공·민간 스포츠 시설 및 전문 지도자 매칭 서비스 - 기획 및 UI/UX 설계, 요구사항 구체화·개발 소통 <sub>(25. 9. ~ 26. 1.)</sub><br>
 &nbsp;&nbsp;&nbsp;🤖 [oneTeam] Graduation project, 자체 MCP 기반 Custom AI 에이전트 활용 학교 특화 시스템 - 기획 & 개발 <sub>(25. 3. ~ 25. 12.)</sub><br>
 &nbsp;&nbsp;&nbsp;⚖️ [고정관념] Bias-A-Thon, LLM 응답 편향 사례 발견 및 데이터셋 정제 - 기획 <sub>(25. 4. ~ 25. 5.)</sub><br>
 &nbsp;&nbsp;&nbsp;🫁 [RespCam] Cossthon, rPPG/rRSP 기술 기반 호흡기 질환 예방 및 관리 홈케어 서비스 - 기획 & 전략 <sub>(24. 12.)</sub><br>
