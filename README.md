@@ -38,7 +38,7 @@
 ---
 
 ## Now
-&nbsp;&nbsp;&nbsp;🏋️ [JEJUBANK] 제주은행, Tech혁신파트(26. 5. 13. ~ now / 정규직 전환 - 26. 8. 13.)</sub><br>
+&nbsp;&nbsp;&nbsp;🏋️ [JEJUBANK] 제주은행, Tech혁신파트 계리·회계 개발자<sub>(26. 5. 13. ~ now / 정규직 전환 - 26. 8. 13.)</sub><br>
 
 ---
 
