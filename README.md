@@ -29,7 +29,7 @@
 
 ## About Me
 &nbsp;&nbsp;&nbsp;🏦 제주은행, Tech혁신파트 계리·회계 개발자<br>
-&nbsp;&nbsp;&nbsp;🎓 상명대학교 휴먼지능정보공학(現 휴먼AI공학전) (학사) **수석 졸업** (Summa Cum Laude, Ranked 1st in Dept.)  
+&nbsp;&nbsp;&nbsp;🎓 상명대학교 휴먼지능정보공학(現 휴먼AI공학전공) (학사) **수석 졸업** (Summa Cum Laude, Ranked 1st in Dept.)  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GPA: 4.41/4.5 (Overall), 4.46/4.5 (Major) || Total Credits: 140** <br>
 &nbsp;&nbsp;&nbsp;🏫 남녕고등학교 31대 학생회장<br>
 &nbsp;&nbsp;&nbsp;🧠 관심사: **PM**, **AIX**, 데이터 분석, 서비스 자동화<br>
